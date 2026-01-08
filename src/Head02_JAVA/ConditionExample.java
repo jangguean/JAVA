@@ -1,4 +1,4 @@
-package Github;
+package Head02_JAVA;
 
 public class ConditionExample {
     public static void main(String[] args) {
